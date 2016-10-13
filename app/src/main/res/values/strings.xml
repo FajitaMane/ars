@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MapSandbox</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyBiMqjZWCmcutA2FopEKmopAfbNYTAEprA</string>
+
+    <!--used in the Submission Fragment -->
+    <string name="tee_butt_text">Tee Location</string>
+    <string name="hole_butt_text">Hole Location</string>
+    <string name="node_butt_text">Hole Location</string>
+
+    <!--used in the database controller -->
+    <string name="db_host">sandbox.cnkeyjupxgu2.us-west-2.rds.amazonaws.com</string>
+    <string name="db_port">5432</string>
+    <string name="db_user">FajitaMane</string>
+    <string name="db_pass">Fajitaman41</string>
+
+</resources>
